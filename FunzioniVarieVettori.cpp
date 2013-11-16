@@ -362,14 +362,3 @@ void rec_bubble_sort(int* vect, int inf, int sup)
 	if(flag)
 		return rec_bubble_sort(vect, inf, sup);
 }
-
-
-
-
-
-
-
-
-
-
-
